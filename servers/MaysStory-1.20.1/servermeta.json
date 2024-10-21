@@ -1,0 +1,21 @@
+{
+  "$schema": "file:///C:/helios/May's%20Story/distro/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "May's Story",
+    "description": "MaysStory Running Minecraft 1.20.1 (Forge v47.2.32)",
+    "icon": "https://raw.githubusercontent.com/qdakim/MaysStory-distro/main/serverimg.png",
+    "address": "www.maysstory.n-e.kr",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": true,
+    "autoconnect": true
+  },
+  "forge": {
+    "version": "47.2.32"
+  },
+  "untrackedFiles": []
+}
