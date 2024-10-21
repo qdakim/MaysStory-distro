@@ -12,7 +12,7 @@
       "name": "May's Story",
       "description": "MaysStory Running Minecraft 1.20.1 (Forge v47.2.32)",
       "icon": "https://raw.githubusercontent.com/qdakim/MaysStory-distro/main/serverimg.png",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "address": "www.maysstory.n-e.kr",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -480,6 +480,16 @@
             "size": 7715661,
             "url": "https://raw.githubusercontent.com/qdakim/MaysStory-distro/main/servers/MaysStory-1.20.1/forgemods/required/voicechat-forge-1.20.1-2.5.20.jar",
             "MD5": "db36439eb601a51a9578b7b2af3ab73a"
+          }
+        },
+        {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 5051,
+            "url": "https://raw.githubusercontent.com/qdakim/MaysStory-distro/main/servers/MaysStory-1.20.1/files/options.txt",
+            "path": "options.txt"
           }
         },
         {
