@@ -502,13 +502,13 @@
           }
         },
         {
-          "id": "generated.library:launchwrapper:of-2.3@jar",
-          "name": "launchwrapper",
+          "id": "generated.library:OptiFine_1.20.1_HD_U_I6_MOD:0.0.0@jar",
+          "name": "OptiFine_1.20.1_HD_U_I6_MOD",
           "type": "Library",
           "artifact": {
-            "size": 15930,
-            "url": "https://raw.githubusercontent.com/qdakim/MaysStory-distro/main/servers/MaysStory-1.20.1/libraries/launchwrapper-of-2.3.jar",
-            "MD5": "0d9b7220ea251d1fa8c4336ed77a6310"
+            "size": 6638739,
+            "url": "https://raw.githubusercontent.com/qdakim/MaysStory-distro/main/servers/MaysStory-1.20.1/libraries/OptiFine_1.20.1_HD_U_I6_MOD.jar",
+            "MD5": "bbdbc50e757c05015e55dc401a569cf1"
           }
         },
         {
