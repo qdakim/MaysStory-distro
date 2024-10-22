@@ -12,7 +12,7 @@
       "name": "May's Story",
       "description": "MaysStory Running Minecraft 1.20.1 (Forge v47.2.32)",
       "icon": "https://raw.githubusercontent.com/qdakim/MaysStory-distro/main/serverimg.png",
-      "version": "1.0.2",
+      "version": "1.0.3",
       "address": "www.maysstory.n-e.kr",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -479,6 +479,19 @@
           }
         },
         {
+          "id": "net.optifine:optifine:1.20.1_HD_U_I6@jar",
+          "name": "OptiFine",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7145205,
+            "url": "https://raw.githubusercontent.com/qdakim/MaysStory-distro/main/servers/MaysStory-1.20.1/forgemods/optionalon/OptiFine_1.20.1_HD_U_I6.jar",
+            "MD5": "7a7982ac06b89dd8c1721ea53a33b768"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "de.maxhenkel:voicechat:1.20.1-2.5.20@jar",
           "name": "Simple Voice Chat",
           "type": "ForgeMod",
@@ -486,6 +499,16 @@
             "size": 7715661,
             "url": "https://raw.githubusercontent.com/qdakim/MaysStory-distro/main/servers/MaysStory-1.20.1/forgemods/required/voicechat-forge-1.20.1-2.5.20.jar",
             "MD5": "db36439eb601a51a9578b7b2af3ab73a"
+          }
+        },
+        {
+          "id": "generated.library:launchwrapper:of-2.3@jar",
+          "name": "launchwrapper",
+          "type": "Library",
+          "artifact": {
+            "size": 15930,
+            "url": "https://raw.githubusercontent.com/qdakim/MaysStory-distro/main/servers/MaysStory-1.20.1/libraries/launchwrapper-of-2.3.jar",
+            "MD5": "0d9b7220ea251d1fa8c4336ed77a6310"
           }
         },
         {
