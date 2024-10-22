@@ -12,7 +12,7 @@
       "name": "May's Story",
       "description": "MaysStory Running Minecraft 1.20.1 (Forge v47.2.32)",
       "icon": "https://raw.githubusercontent.com/qdakim/MaysStory-distro/main/serverimg.png",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "address": "www.maysstory.n-e.kr",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -448,8 +448,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1280293,
-            "url": "https://raw.githubusercontent.com/qdakim/MaysStory-distro/main/servers/MaysStory-1.20.1/forgemods/required/embeddium-0.3.19+mc1.20.1-all.jar",
+            "url": "https://raw.githubusercontent.com/qdakim/MaysStory-distro/main/servers/MaysStory-1.20.1/forgemods/optionalon/embeddium-0.3.19+mc1.20.1-all.jar",
             "MD5": "1b272575bea5f1e7c61a4d189b712343"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -468,8 +471,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2831148,
-            "url": "https://raw.githubusercontent.com/qdakim/MaysStory-distro/main/servers/MaysStory-1.20.1/forgemods/required/oculus-mc1.20.1-1.7.0.jar",
+            "url": "https://raw.githubusercontent.com/qdakim/MaysStory-distro/main/servers/MaysStory-1.20.1/forgemods/optionalon/oculus-mc1.20.1-1.7.0.jar",
             "MD5": "45b96133bb46cc61dd9778bd4fca741d"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -490,6 +496,16 @@
             "size": 5051,
             "url": "https://raw.githubusercontent.com/qdakim/MaysStory-distro/main/servers/MaysStory-1.20.1/files/options.txt",
             "path": "options.txt"
+          }
+        },
+        {
+          "id": "generated.library:OptiFine_1.20.1_HD_U_I6:0.0.0@jar",
+          "name": "OptiFine_1.20.1_HD_U_I6",
+          "type": "Library",
+          "artifact": {
+            "size": 7145205,
+            "url": "https://raw.githubusercontent.com/qdakim/MaysStory-distro/main/servers/MaysStory-1.20.1/libraries/OptiFine_1.20.1_HD_U_I6.jar",
+            "MD5": "7a7982ac06b89dd8c1721ea53a33b768"
           }
         },
         {
