@@ -12,7 +12,7 @@
       "name": "May's Story",
       "description": "MaysStory Running Minecraft 1.20.1 (Forge v47.2.32)",
       "icon": "https://raw.githubusercontent.com/qdakim/MaysStory-distro/main/serverimg.png",
-      "version": "1.0.3",
+      "version": "1.0.5",
       "address": "www.maysstory.n-e.kr",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -443,19 +443,6 @@
           }
         },
         {
-          "id": "me.jellysquid.mods.sodium.client:embeddium:0.3.19+mc1.20.1@jar",
-          "name": "Embeddium",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1280293,
-            "url": "https://raw.githubusercontent.com/qdakim/MaysStory-distro/main/servers/MaysStory-1.20.1/forgemods/optionalon/embeddium-0.3.19+mc1.20.1-all.jar",
-            "MD5": "1b272575bea5f1e7c61a4d189b712343"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
           "id": "journeymap:journeymap:5.10.1@jar",
           "name": "Journeymap",
           "type": "ForgeMod",
@@ -463,32 +450,6 @@
             "size": 7160219,
             "url": "https://raw.githubusercontent.com/qdakim/MaysStory-distro/main/servers/MaysStory-1.20.1/forgemods/required/journeymap-1.20.1-5.10.1-forge.jar",
             "MD5": "dddc978902ed8416be39cfebdff7c22d"
-          }
-        },
-        {
-          "id": "net.irisshaders.iris:oculus:1.7.0@jar",
-          "name": "Oculus",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 2831148,
-            "url": "https://raw.githubusercontent.com/qdakim/MaysStory-distro/main/servers/MaysStory-1.20.1/forgemods/optionalon/oculus-mc1.20.1-1.7.0.jar",
-            "MD5": "45b96133bb46cc61dd9778bd4fca741d"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "net.optifine:optifine:1.20.1_HD_U_I6@jar",
-          "name": "OptiFine",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 7145205,
-            "url": "https://raw.githubusercontent.com/qdakim/MaysStory-distro/main/servers/MaysStory-1.20.1/forgemods/optionalon/OptiFine_1.20.1_HD_U_I6.jar",
-            "MD5": "7a7982ac06b89dd8c1721ea53a33b768"
-          },
-          "required": {
-            "value": false
           }
         },
         {
